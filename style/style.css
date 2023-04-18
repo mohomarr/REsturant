@@ -222,6 +222,7 @@ img{
 .home{
     height: calc(100vh - 3rem);
     row-gap: 1rem;
+    margin-top: 15rem;
     
 }
 .home__data{
@@ -232,8 +233,6 @@ img{
 .home__title{
     font-size: var(--big-font-size);
     margin-bottom: var(--mb-5);
-    margin-top: 5rem;
-
 }
 
 .home__title__color{
