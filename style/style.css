@@ -227,7 +227,7 @@ img{
 }
 .home__data{
     align-self: center;
-    margin-top: var(--mb-2);
+    margin-top: var(--mb-4);
 }
 
 .home__title{
