@@ -226,12 +226,13 @@ img{
 }
 .home__data{
     align-self: center;
-    margin-top: 2rem;
+   
 }
 
 .home__title{
     font-size: var(--big-font-size);
     margin-bottom: var(--mb-5);
+    margin-top: 2rem;
 
 }
 
